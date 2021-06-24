@@ -20,9 +20,9 @@ A simple template string tagged with `pipe` spawns a child process and returns i
 pipe`ps`.stdout.pipe(process.stdout);
 ```
 
-For convenience the returned object can be `await`ed to buffer an array of Strings from it's stdout.
+For convenience the passing the returned object to `await` buffers an array of Strings from it's stdout.
 ```Javascript
-const commands = await pipe`ps`;
+const processes = await pipe`ps`;
 ```
 
 ## Function Placeholders
