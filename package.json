@@ -16,5 +16,9 @@
   "dependencies": {
     "split": "^1.0.1"
   },
-  "repository": "github:rpaterson/pipe-tag"
+  "repository": "github:rpaterson/pipe-tag",
+  "bugs": {
+    "url": "https://github.com/rpaterson/pipe-tag/issues"
+  },
+  "homepage": "https://github.com/rpaterson/pipe-tag#readme"
 }
