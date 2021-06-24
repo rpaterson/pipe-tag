@@ -1,6 +1,6 @@
 {
   "name": "pipe-tag",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easily create a streaming pipeline of child processes using a tagged template literal, and mixin string processing in Javascript.",
   "main": "index.js",
   "keywords": [
